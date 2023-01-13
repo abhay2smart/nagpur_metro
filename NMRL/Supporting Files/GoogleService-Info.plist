@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>963401264249-qfanjhu90c6aq71s3jrhli35mvisbpvh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.963401264249-qfanjhu90c6aq71s3jrhli35mvisbpvh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBxm0o-sC1mgEiqaW3a3oZW5M5UTguAIoo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>963401264249</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mmrcl.mahametro</string>
+	<key>PROJECT_ID</key>
+	<string>nagpur-metro-239808</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nagpur-metro-239808.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:963401264249:ios:e28ab059e31802b7</string>
+	<key>DATABASE_URL</key>
+	<string>https://nagpur-metro-239808.firebaseio.com</string>
+</dict>
+</plist>
